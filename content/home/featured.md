@@ -46,7 +46,7 @@ subtitle = "Temas e publicações recentes"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "#90e0ef"
+   color = "#caf0f8"
   
   # Background gradient.
  #  gradient_start = "#00b4d8"
