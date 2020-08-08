@@ -5,7 +5,7 @@ subtitle: Tese de Doutorado
 date: 2020-08-08T18:37:27.428Z
 draft: false
 featured: true
-external_link: " "
+external_link: " https://teses.usp.br/teses/disponiveis/6/6134/tde-16102015-094150/pt-br.php"
 links:
   - url: https://teses.usp.br/teses/disponiveis/6/6134/tde-16102015-094150/pt-br.php
     name: Acesso a tese
