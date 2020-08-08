@@ -1,6 +1,6 @@
 ---
-title: Eduardo Mazzolenis de Oliveira
-role: Engenheiro Químico, mestre em Ciência Ambiental e Doutor em Saúde Pública
+title: Eduardo Mazzolenis
+role: Doutor em Saúde Ambiental
 avatar_filename: avatar.jpeg
 organizations:
   - name: CETESB
@@ -21,7 +21,7 @@ social:
     link: "#contact"
 education:
   courses:
-    - course: Doutorado em Saúde Pública
+    - course: Doutorado em Saúde Ambiental
       year: 2015
       institution: Faculdade de Saúde Pública-USP
     - course: Mestrado em Ciência Ambiental
@@ -35,4 +35,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Eduardo Mazzolenis é engenheiro atuante na área de licenciamento e gestão ambiental, docente do curso de Especialização em Gerenciamento de Recursos Hídricos da Fundação Municipal de Ensino de Piracicaba (FUMEP) e representante da CETESB no Comitê Perman. para Gestão Integrada da Qual. da Água Destinada ao Cons.Humano no E. S. Paulo. Tem experiência na área de saneamento e ecologia, atuando principalmente nos seguintes temas: licenciamento e controle da poluição, planejamento e gestão ambiental nas áreas de saneamento e recursos hídricos, enquadramento dos corpos de água, reuso de efluentes e fiscalização de segurança de barragens.
+Eduardo Mazzolenis de Oliveira é engenheiro atuante na área de licenciamento e gestão ambiental, docente do curso de Especialização em Gerenciamento de Recursos Hídricos da Fundação Municipal de Ensino de Piracicaba (FUMEP) e representante da CETESB no Comitê Perman. para Gestão Integrada da Qual. da Água Destinada ao Cons.Humano no E. S. Paulo. Tem experiência na área de saneamento e ecologia, atuando principalmente nos seguintes temas: licenciamento e controle da poluição, planejamento e gestão ambiental nas áreas de saneamento e recursos hídricos, enquadramento dos corpos de água, reuso de efluentes e fiscalização de segurança de barragens.
