@@ -1,7 +1,7 @@
 ---
 title: Eduardo Mazzolenis de Oliveira
 role: Engenheiro Químico, mestre em Ciência Ambiental e Doutor em Saúde Pública
-avatar_filename: eu.jpeg
+avatar_filename: avatar.jpeg
 organizations:
   - name: CETESB
     url: ""
