@@ -6,10 +6,10 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Featured Publications"
-subtitle = ""
+title = "Destaques"
+subtitle = "Temas e publicações recentes"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -49,8 +49,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   gradient_start = "#00b4d8"
+   gradient_end = "#48cae4"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
