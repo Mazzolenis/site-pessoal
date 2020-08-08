@@ -5,7 +5,7 @@ subtitle: ""
 date: 2020-08-08T20:35:02.028Z
 draft: false
 featured: false
-external_link: https://mazzolenis.netlify.app/project/reuso-da-agua-como-recurso-hidrico-oportunidades-e-necessidade-de-regulamentacao/
+external_link: 
 links:
   - url: http://anais.abrh.org.br/works/1911
     name: Acesso a Tese
