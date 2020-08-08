@@ -7,7 +7,7 @@ subtitle: Tese de Doutorado
 date: 2020-08-08T18:37:27.428Z
 draft: false
 featured: true
-external_link: https://mazzolenis.netlify.app/project/desafios-e-perspectivas-para-a-recuperacao-da-qualidade-das-aguas-do-rio-tiete-na-regiao-metropolitana-de-sao-paulo/
+external_link:
 links:
   - url: https://teses.usp.br/teses/disponiveis/6/6134/tde-16102015-094150/pt-br.php
     name: Acesso a tese
