@@ -19,6 +19,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
+  - link: http://lattes.cnpq.br/3655908118333285
+    icon_pack: ai
+    icon: lattes
 education:
   courses:
     - course: Doutorado em Saúde Ambiental
