@@ -13,7 +13,7 @@ subtitle = "Temas e publicações recentes"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "project"
+  page_type = "project, post, talk"
   
   
   # Choose how much pages you would like to display (0 = all pages)
