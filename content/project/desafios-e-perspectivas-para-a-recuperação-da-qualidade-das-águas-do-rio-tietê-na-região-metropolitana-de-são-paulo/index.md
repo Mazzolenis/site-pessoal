@@ -6,7 +6,7 @@ title: Desafios e perspectivas para a recuperação da qualidade das águas do R
 subtitle: Tese de Doutorado
 date: 2020-08-08T18:37:27.428Z
 draft: false
-featured: false
+featured: true
 external_link: https://teses.usp.br/teses/disponiveis/6/6134/tde-16102015-094150/pt-br.php
 links:
   - url: https://teses.usp.br/teses/disponiveis/6/6134/tde-16102015-094150/pt-br.php
