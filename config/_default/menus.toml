@@ -16,12 +16,12 @@
 [[main]]
   name = "Conferências e Palestras"
   url = "#talks"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publicações"
-  url = "#portfolio"
-  weight = 40
+  url = "#projects"
+  weight = 30
 
 [[main]]
   name = "Contato"
