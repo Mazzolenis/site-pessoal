@@ -6,7 +6,7 @@ subtitle: "XX SIMPÓSIO BRASILEIRO DE RECURSOS HÍDRICOS DATA: 17 a 22 de novemb
 date: 2020-08-08T20:35:02.028Z
 draft: false
 featured: false
-external_link: www.mazzolenis.netlify.app/REUSO-DA-ÁGUA-COMO-RECURSO-HÍDRICO:-OPORTUNIDADES-E-NECESSIDADE-DE-REGULAMENTAÇÃO.-XX-SIMPÓSIO-BRASILEIRO-DE-RECURSOS-HÍDRICOS-(2013)
+external_link: www.mazzolenis.netlify.app/project/REUSO-DA-ÁGUA-COMO-RECURSO-HÍDRICO:-OPORTUNIDADES-E-NECESSIDADE-DE-REGULAMENTAÇÃO.-XX-SIMPÓSIO-BRASILEIRO-DE-RECURSOS-HÍDRICOS-(2013)
 links:
   - url: http://anais.abrh.org.br/works/1911
     name: Acessa a tese aqui
