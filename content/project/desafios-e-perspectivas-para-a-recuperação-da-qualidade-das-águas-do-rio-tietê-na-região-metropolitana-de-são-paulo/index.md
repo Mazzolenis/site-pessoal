@@ -1,8 +1,8 @@
 ---
-title: OLIVEIRA, Eduardo Mazzolenis de. Desafios e perspectivas para a
-  recuperação da qualidade das águas do Rio Tietê na Região Metropolitana de São
-  Paulo. 2015. Tese (Doutorado em Saúde Ambiental) - Faculdade de Saúde Pública,
-  Universidade de São Paulo, São Paulo, 2015
+title: Desafios e perspectivas para a recuperação da qualidade das águas do Rio
+  Tietê na Região Metropolitana de São Paulo. 2015. Tese (Doutorado em Saúde
+  Ambiental) - Faculdade de Saúde Pública, Universidade de São Paulo, São Paulo,
+  2015
 subtitle: Tese de Doutorado
 date: 2020-08-08T18:37:27.428Z
 draft: false
