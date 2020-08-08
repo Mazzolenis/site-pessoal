@@ -7,19 +7,6 @@ weight = 15  # Order that this section will appear.
 # ... Put Your Section Options Here (title etc.) ...
 title = "Destaques"
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post",
