@@ -12,8 +12,28 @@ title = "Destaques"
 subtitle = "Temas e publicações recentes"
 
 [content]
+page_type = "talk"
+ # Choose how much pages you would like to display (0 = all pages)
+  count = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Show a "See all pages" link underneath the featured content?
+  link_to_archive = false
+[content]
+page_type = "post"
+ # Choose how much pages you would like to display (0 = all pages)
+  count = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Show a "See all pages" link underneath the featured content?
+  link_to_archive = false
+[content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "project" "talk" "post"
+  page_type = "project"
   
   
   # Choose how much pages you would like to display (0 = all pages)
