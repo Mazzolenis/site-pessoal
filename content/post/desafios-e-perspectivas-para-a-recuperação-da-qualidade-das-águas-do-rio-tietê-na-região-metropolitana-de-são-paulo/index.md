@@ -4,7 +4,7 @@ title: Desafios e perspectivas para a recuperação da qualidade das águas do R
 subtitle: Tese de doutorado
 date: 2020-08-08T18:19:14.033Z
 summary: ""
-draft: false
+draft: true
 featured: true
 image:
   filename: featured.jpeg
