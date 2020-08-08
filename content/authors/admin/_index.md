@@ -1,75 +1,38 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Eduardo Mazzolenis de Oliveira
+role: Engenheiro Químico, mestre em Ciência Ambiental e Doutor em Saúde Pública
+avatar_filename: eu.jpeg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: CETESB
+    url: ""
+superuser: true
+authors:
+  - admin
+bio: Atuante na área de gestão ambiental, do saneamento, de recursos hídricos e
+  segurança de barragens.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Gestão Ambiental
+  - Gestão de Saneamento
+  - Gestão de Recursos Hídricos
+  - Segurança de Barragens
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: Doutorado em Saúde Pública
+      year: 2015
+      institution: Faculdade de Saúde Pública-USP
+    - course: Mestrado em Ciência Ambiental
+      institution: Universidade de São Paulo
+      year: 1995
+    - course: Graduação em Engenharia Química
+      institution: Faculdades Oswaldo Cruz
+      year: 1986
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Eduardo Mazzolenis é engenheiro atuante na área de licenciamento e gestão ambiental, docente do curso de Especialização em Gerenciamento de Recursos Hídricos da Fundação Municipal de Ensino de Piracicaba (FUMEP) e representante da CETESB no Comitê Perman. para Gestão Integrada da Qual. da Água Destinada ao Cons.Humano no E. S. Paulo. Tem experiência na área de saneamento e ecologia, atuando principalmente nos seguintes temas: licenciamento e controle da poluição, planejamento e gestão ambiental nas áreas de saneamento e recursos hídricos, enquadramento dos corpos de água, reuso de efluentes e fiscalização de segurança de barragens.
