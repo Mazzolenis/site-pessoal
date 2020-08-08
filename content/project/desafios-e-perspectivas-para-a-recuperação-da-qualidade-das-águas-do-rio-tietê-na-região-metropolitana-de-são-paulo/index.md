@@ -3,9 +3,9 @@ title: Desafios e perspectivas para a recuperação da qualidade das águas do R
   Tietê na Região Metropolitana de São Paulo
 subtitle: Tese de Doutorado
 date: 2020-08-08T18:37:27.428Z
-draft: true
+draft: false
 featured: true
-external_link: https://teses.usp.br/teses/disponiveis/6/6134/tde-16102015-094150/pt-br.php
+external_link: " "
 links:
   - url: https://teses.usp.br/teses/disponiveis/6/6134/tde-16102015-094150/pt-br.php
     name: Acesso a tese
