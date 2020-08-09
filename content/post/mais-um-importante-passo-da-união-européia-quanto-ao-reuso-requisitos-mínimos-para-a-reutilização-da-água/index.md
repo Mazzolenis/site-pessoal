@@ -12,7 +12,7 @@ summary: Tendo em vista a pressão crescente, em termos quantitativos e
   2020/741** (25 de maio de
   2020).[](https://eur-lex.europa.eu/legal-content/PT/TXT/HTML/?uri=CELEX:32020R0741&from=EN)
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
