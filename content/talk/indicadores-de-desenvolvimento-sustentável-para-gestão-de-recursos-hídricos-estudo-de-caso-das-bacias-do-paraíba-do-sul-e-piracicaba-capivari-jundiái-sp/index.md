@@ -58,6 +58,7 @@ all_day: false
 links:
   - url: https://drive.google.com/file/d/0B4e_PU93sJrFNzY2Nzc5YTEtMDY4NC00Mjg2LThmYjAtNTU5ODgxMWZjMTc0/view
     icon_pack: fas
+    name: Acesso ao artigo
 event: III Workshop Interdisciplinar de Pesquisa em Indicadores de Sustentabilidade
 event_url: http://wipis2011.blogspot.com/2011/07/o-iii-workshop-interdisciplinar-de.html?m=1
 publishDate: 2020-08-09T00:30:50.360Z
