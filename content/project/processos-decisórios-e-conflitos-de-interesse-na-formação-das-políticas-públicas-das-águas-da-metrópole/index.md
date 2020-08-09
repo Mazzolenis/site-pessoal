@@ -16,6 +16,7 @@ featured: false
 external_link: http://webcache.googleusercontent.com/search?q=cache:VAwJHoCqy-0J:www3.sp.senac.br/hotsites/blogs/InterfacEHS/wp-content/uploads/2013/08/1_SE_INTER_vol5n3.pdf+&cd=1&hl=pt-BR&ct=clnk&gl=br
 links:
   - url: http://webcache.googleusercontent.com/search?q=cache:VAwJHoCqy-0J:www3.sp.senac.br/hotsites/blogs/InterfacEHS/wp-content/uploads/2013/08/1_SE_INTER_vol5n3.pdf+&cd=1&hl=pt-BR&ct=clnk&gl=br
+    name: Acesso ao artigo
 image:
   filename: featured
   focal_point: Smart
