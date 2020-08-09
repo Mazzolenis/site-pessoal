@@ -1,5 +1,5 @@
 ---
-title: "GESTÃO DOS MANANCIAIS DA GRANDE SÃO PAULO: desafios e oportunidades para
+title: "Gestão dos mananciais da Grande São Paulo: desafios e oportunidades para
   a produção de água segura para o consumo humano"
 abstract: O presente artigo tem por objetivo refletir sobre a produção de água
   segura para consumo humano, diante da crescente complexidade trazida pelo
@@ -23,6 +23,7 @@ all_day: false
 links:
   - url: https://abrh.s3.sa-east-1.amazonaws.com/Sumarios/81/1db22c43e4b9dba938fd298563c17646_7e7091650274d5e9cb390c5ffcd894ea.pdf
     name: Acesso ao artigo
+    icon_pack: fas
 event: XIX Simpósio Brasileiro de Recursos Hídricos - Maceió- 2011
 event_url: https://www.abrhidro.org.br/SGCv3/publicacao.php?PUB=3&ID=81&PUBLICACAO=SIMPOSIOS
 publishDate: 2020-08-08T22:53:59.037Z
